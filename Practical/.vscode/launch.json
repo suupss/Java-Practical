@@ -1,0 +1,147 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TextDisplayApp",
+            "request": "launch",
+            "mainClass": "TextDisplayApp",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_four.hello",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TextDisplayApp",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_four.TextDisplayApp",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "VowelConsonantSeparation",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_one.One.VowelConsonantSeparation",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "SimpleThreadDemo",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_one.Three.SimpleThreadDemo",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "AgeValidation",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_one.Two.AgeValidation",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "TCPClient",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_three.TCP.TCPClient",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "TCPServer",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_three.TCP.TCPServer",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "UDPClient",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_three.UDP.UDPClient",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "UDPServer",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_three.UDP.UDPServer",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "SumAndDifference",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_two.five.SumAndDifference",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "StudentInfoApp",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_two.four.StudentInfoApp",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "SimpleFoodOrder",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_two.one.SimpleFoodOrder",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "StringManipulation",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_two.seven.StringManipulation",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "HelloByeMessage",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_two.six.HelloByeMessage",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "NumberMultiplier",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_two.three.NumberMultiplier",
+            "projectName": "Practical_be9453e"
+        },
+        {
+            "type": "java",
+            "name": "SimpleInterestCalculator",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Section_two.two.SimpleInterestCalculator",
+            "projectName": "Practical_be9453e"
+        }
+    ]
+}
